@@ -1,0 +1,3 @@
+1.what would be the mode in context manager if we don't specify it?
+2.why getting an item using index in byte string, actually returns number?
+3.what the letter 'r' does before a string?
